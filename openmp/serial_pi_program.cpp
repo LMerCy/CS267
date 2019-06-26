@@ -1,7 +1,7 @@
 #include <omp.h>
 #include<iostream>
 using namespace std;
-static long num_steps = 100000;
+static long num_steps = 100000000;
 double step;
 int main ()
 { 
